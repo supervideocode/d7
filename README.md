@@ -13,8 +13,13 @@
 - 社交媒体：[[TG联系我](https://t.me/web777888)]
 
 ## 📸 软件界面
-![软件主界面截图](./images/main-ui.png)
-*图：简洁直观的主界面，新手也能快速上手*
+![软件主界面截图](./images/1.jpg)
+![](./images/2.jpg)
+![](./images/3.jpg)
+![](./images/4.jpg)
+![](./images/5.jpg)
+![](./images/6.jpg)
+![](./images/7.jpg)
 
 
 
