@@ -22,7 +22,7 @@
 
 
 ## 💰 购买与咨询
-- 📧  APP版本（uniapp-nvue开发）1.5W 含android+ios ，如需要H5版本(uniapp-vue开发) 总价2.5W
+- 📧  APP版本（uniapp-nvue开发）1.5W 含android+ios ，如需要H5版本(uniapp-vue开发) 总价2.3W
 - 📩  Telegram：[@web777888](https://t.me/web777888)
 - 📧  QQ：3579439875
 - ✨  支持定制开发、技术指导、搭建服务，H5版本可单独咨询，欢迎议价
