@@ -13,13 +13,13 @@
 - 社交媒体：[[TG联系我](https://t.me/web777888)]
 
 ## 📸 软件界面
-![软件主界面截图](./1.jpg)
-![](./2.jpg)
-![](./3.jpg)
-![](./4.jpg)
-![](./5.jpg)
-![](./6.jpg)
-![](./7.jpg)
+![软件主界面截图](./images/1.jpg)
+![](./images/2.jpg)
+![](./images.3.jpg)
+![](./images/4.jpg)
+![](./images/5.jpg)
+![](./images/6.jpg)
+![](./images/7.jpg)
 
 
 
